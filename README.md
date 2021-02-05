@@ -10,6 +10,7 @@ You will be able to find the following documents and files needed to create soft
 * Port/device list for connectors and other preipherals
 * Connector placement 
 * Connector part numbers
+* Schematics for selected circuits
 
 
 
